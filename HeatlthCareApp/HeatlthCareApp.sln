@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatlthCareApp", "HeatlthCareApp\HeatlthCareApp.csproj", "{B913DCC6-E787-478D-A599-EEF3CB59C012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B913DCC6-E787-478D-A599-EEF3CB59C012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B913DCC6-E787-478D-A599-EEF3CB59C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B913DCC6-E787-478D-A599-EEF3CB59C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B913DCC6-E787-478D-A599-EEF3CB59C012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4A1A4F-AB0C-49E8-BFA0-0E8F624A7A90}
+	EndGlobalSection
+EndGlobal
